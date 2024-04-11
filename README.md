@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebecca Adeyoju</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer. I write HTML, CSS and JavaScript. Looking forward to meeting you!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebeccaadeyoju&label=Profile%20views&color=0e75b6&style=flat" alt="rebeccaadeyoju" /> </p>
 
